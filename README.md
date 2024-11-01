@@ -1,4 +1,4 @@
-# MSc Big Data Analytics - Data Mining Project
+Data Mining Project
 
 This repository contains the solutions for the Data Mining course (CMM704) as part of the MSc Big Data Analytics program. The project focuses on data preprocessing, feature transformation, dimensionality reduction, and classification techniques using Logistic Regression and Support Vector Machines (SVM) on a banking dataset.
 
@@ -11,7 +11,7 @@ This repository contains the solutions for the Data Mining course (CMM704) as pa
 - [Classification Models](#classification-models)
 - [Results and Analysis](#results-and-analysis)
 - [Conclusion](#conclusion)
-- [Author](#author)
+
 
 ## Project Overview
 
@@ -50,12 +50,6 @@ This project applies various data mining techniques to preprocess, analyze, and 
 ## Conclusion
 
 The project concludes that the Support Vector Machine performs better than Logistic Regression for this banking dataset, achieving higher accuracy and recall. The findings underscore the suitability of SVM for classification tasks involving this type of data.
-
-## Author
-
-- **Don Manula Ransika Udugahapattuwa**
-  - IIT Student ID: 20200361
-  - RGU Student ID: 2016629
 
 ---
 
